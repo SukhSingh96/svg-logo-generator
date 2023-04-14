@@ -27,3 +27,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Mock-up
 
+[Untitled_ Apr 13, 2023 11_03 PM.webm](https://user-images.githubusercontent.com/121911679/231931023-ddd99581-de80-4158-af29-012d65ea3695.webm)
