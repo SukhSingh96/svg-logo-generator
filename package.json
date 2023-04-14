@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
